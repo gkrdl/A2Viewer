@@ -35,7 +35,7 @@
 ## 요구사항
 
 - Windows 10 이상
-- [Npcap](https://npcap.com/) 설치 필요 (패킷 캡처용)
+- [Npcap](https://npcap.com/dist/npcap-1.87.exe) 설치 필요 (패킷 캡처용)
   - 설치 시 **WinPcap API-compatible Mode** 체크
 
 ## 트레이 아이콘
