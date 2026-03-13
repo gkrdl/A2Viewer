@@ -9,8 +9,9 @@
 1. [**A2Viewer.exe 다운로드**](https://github.com/gkrdl/A2Viewer/releases/latest)
 2. [Npcap](https://npcap.com/dist/npcap-1.87.exe) 설치 (최초 1회)
    - 설치 시 **WinPcap API-compatible Mode** 반드시 체크
-3. 아이온2 게임 실행 → 파티 참가 시 자동으로 정보 표시
+3. 아이온2 게임 실행 → 캐릭터 선택 창에서 대기
 4. **A2Viewer.exe** 실행 (관리자 권한 자동 요청)
+5. 캐릭터 로그인
 > 별도 설치 과정 없이 exe 파일 하나로 바로 실행됩니다 (Portable).
 
 ## 주요 기능
