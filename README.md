@@ -9,9 +9,11 @@
 ![컴팩트모드](compact.png)
 
 DPS미터 패널 노말모드
+
 ![노말모드](normal2.png)
 
 DPS미터 패널 컴팩트모드
+
 ![컴팩트모드](compact2.png)
 
 
