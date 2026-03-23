@@ -87,7 +87,3 @@
 | 패킷 캡처 | Npcap (SharpPcap) |
 | DPS 엔진 | PacketProcessor.dll (네이티브) |
 | JS 실행 | Jint |
-
-## 크레딧
-
-- **[Aion2-Dps-Meter-Packet-Process](https://github.com/HappNJLand/Aion2-Dps-Meter-Packet-Process)** — DPS 미터 패킷 파싱 엔진 (PacketProcessor.dll). 감사합니다!
