@@ -92,3 +92,4 @@
 ## 크레딧
 mob_data.json - https://github.com/HappNJLand/Aion2-Dps-Meter-Packet-Process/blob/main/resources/mobs.json
 skills.json - https://github.com/HappNJLand/Aion2-Dps-Meter-Packet-Process/blob/main/resources/skills_ko.json
+직업아이콘 - https://github.com/TK-open-public/Aion2-Dps-Meter/tree/main/src/main/resources/src/assets
