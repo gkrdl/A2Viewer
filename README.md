@@ -2,9 +2,6 @@
 
 아이온2 파티 뷰어 — 패킷 캡처 기반 파티원 전투력 조회 + 실시간 DPS 미터 오버레이
 
-## 스크린샷
-
-
 ## 설치 및 실행
 
 1. [**A2Viewer.exe 다운로드**](https://github.com/gkrdl/A2Viewer/releases/latest)
