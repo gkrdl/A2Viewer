@@ -78,5 +78,4 @@
 | 런타임 | .NET 8 WinForms |
 | UI 렌더링 | WebView2 + React 19 |
 | 패킷 캡처 | Npcap (SharpPcap) |
-| DPS 엔진 | PacketProcessor.dll (네이티브) |
 | JS 실행 | Jint |
